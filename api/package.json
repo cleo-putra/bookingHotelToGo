@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parse": "^0.4.0",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^9.0.1"
+  }
+}
